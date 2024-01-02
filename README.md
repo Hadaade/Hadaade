@@ -1,8 +1,8 @@
-## 👋 Hello there
+## 👋 Hello World!
 
 <p align="left"> 
-  Hello, my name is Nathan and I'm 24 years old.
-  I'm studying <strong>Analysis and Systems Development</strong> at Unisuam.
+  Hello, my name is Hadade and I'm 20 years old.
+  I'm studying <strong>Data Science</strong> at Estácio de Sá.
 </p>
 
 <!-- <img src="images/image.png" min-width="300px" max-width="300px" width="300px" align="right"> -->
@@ -11,19 +11,24 @@
 <h5>Skills 🎖</h5>
 
 <ul>
-<li>Flutter</li>
-<li>Javascript</li>
-<li>HTML</li>
-<li>CSS</li>
+<li>Virtual Basic for Applications</li>
+<li>Python</li>
+<li>R</li>
+<li>MySQL</li>
+<li>Pascal</li>
+<li>VisuAlg</li>
+<li>Microsoft Acess</li>
+<li>Microsoft Excel</li>
 </ul>
 </p>
 
 <p align="left">
-  📚 I’m currently studying <strong>Flutter</strong> and <strong>Dart</strong>.
+  📚 I’m currently studying <strong>Machine Learning</strong> and <strong>artificial intelligence
+</strong>.
 </p>
 
 <!-- <p align="left"> 
-  🚩 <strong>Future Goals</strong>:Know and study the new technologies that arise, especially Flutter, and contribute more to the community.
+  🚩 <strong>Future Goals</strong>:I delve deeper into Deep learning and Machine Learning, I managed to complete my projects using artificial intelligence.
 </p> -->
 
 <p align="left">
@@ -31,11 +36,11 @@
 </p>
 
 <p align="left">
-  <a href="mailto:bernardo.duartemiranda@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white&link=bernardo.duartemiranda@gmail.com" /></a>
+  <a href="mailto:nathanhadade750@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white&link=nathanhadade750@gmail.com" /></a>
 
   <a href="https://www.linkedin.com/in/bernardo-duarte-a7300b15a/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernardo-duarte-a7300b15a/" /></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hadade-undefined-581a99287//"/></a>
 </p>  
 
 **GitHub Stats:**
